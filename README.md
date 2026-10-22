@@ -29,3 +29,7 @@ My projects range from desktop applications to focused C++ library revivals. I c
 Start with **[AppTrail downloads](https://github.com/SeanShaffer88/AppTrail/releases/latest)**, the **[win-pipe 0.2.0 release](https://github.com/SeanShaffer88/win-pipe-revival/releases/tag/v0.2.0)**, or **[Meridian's preview guide](https://github.com/SeanShaffer88/Meridian#try-meridian)**.
 
 For bugs, ideas, or contributions, use the relevant project's issues and contribution guidance. A clear reproduction, Windows version, and build details help me investigate.
+
+## Explore the project families
+
+[Desktop tools, native libraries and revivals](https://github.com/SeanShaffer88/WinDevKit/blob/main/docs/PROJECT_FAMILIES.md) are indexed with their different maturity levels. Start with the [DLL consumer index](https://github.com/SeanShaffer88/WinDevKit/blob/main/docs/DLL_COLLECTION.md), [fork provenance](https://github.com/SeanShaffer88/WinDevKit/blob/main/docs/FORK_PROVENANCE.md), or [development resource library](https://github.com/SeanShaffer88/useful-dev-resources).
